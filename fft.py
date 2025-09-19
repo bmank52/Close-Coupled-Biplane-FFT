@@ -1,4 +1,4 @@
-# Fast Fourier Transform of data in a CSV Format for cleaning resaerch data noise 
+# Fast Fourier Transform of data in a CSV Format for cleaning research data noise 
 # Bryce Mankovsky, 8/24/25
 
 import numpy as np
@@ -87,3 +87,4 @@ plt.ylabel("Magnitude (dB)")
 plt.grid(True)
 plt.show()
 '''
+
